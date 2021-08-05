@@ -1,0 +1,7 @@
+id;custodian_id;type;integration_options
+1;1;LOCAL	{"type":"LOCAL","localDirectory":"integrations/bcge_1"}
+2;2;LOCAL	{"type":"LOCAL","localDirectory":"integrations/julius_baer_1"}
+3;3;LOCAL	{"type":"LOCAL","localDirectory":"integrations/bcf_1"}
+4;4;LOCAL	{"type":"LOCAL","localDirectory":"integrations/ubs_1"}
+5;5;LOCAL	{"type":"LOCAL","localDirectory":"integrations/cs_1"}
+6;6;LOCAL	{"type":"LOCAL","localDirectory":"integrations/rahnbodmer_1"}

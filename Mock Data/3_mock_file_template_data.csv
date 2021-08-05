@@ -1,0 +1,4 @@
+id;integration_id;entity_type;template_options
+1;1;TRANSACTION	{"type":"CSV","fileNameRegexp":"TRANS","csvSeparator":"\\u0009"}'
+2;1;POSITION	{"type":"CSV","fileNameRegexp":"POS","csvSeparator":"\\u0009"}'
+3;5;TRANSACTION	{"type":"SWIFT"}'
